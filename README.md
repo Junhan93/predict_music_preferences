@@ -1,1 +1,1 @@
-# predict_music_preferences
+# This model learns and predict music that people might like
