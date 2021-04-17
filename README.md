@@ -1,1 +1,1 @@
-# This model learns and predict music that people might like
+# This model predicts music genre that people like
